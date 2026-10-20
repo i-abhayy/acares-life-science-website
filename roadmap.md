@@ -1,0 +1,8 @@
+- [x] Animated Our Mission + Our Vision videos, add to site
+- [x] More interactive images
+- [x] Replace the selected home Mission animation with a cropped five-second loop from the attached video
+- [x] Replace the home page opening picture with the uploaded lab video, trimmed into a seamless loop
+- [x] Remove the dark blue wash from the top of the opening video (the colour above the video)
+- [x] Split Mission/Vision panel with distinct imagery for each side
+- [x] Tilt-and-light hover effect on the Our Products cards
+- [x] Remove the blue colour overlapping the opening video (gradients, drawn molecular overlay); keep text readable with a halo and small frosted panels
